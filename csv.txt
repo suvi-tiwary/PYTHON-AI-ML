@@ -1,0 +1,4 @@
+name,marks,age
+Aman,80,20
+Riya,90,21
+Karan,70,19
